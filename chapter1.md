@@ -1,3 +1,4 @@
-# First Chapter
+# 基本安装 {#%E5%9F%BA%E6%9C%AC%E5%AE%89%E8%A3%85}
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+本章内容讲述Gitbook的安装及命令行的功能快速预览说明。
+
